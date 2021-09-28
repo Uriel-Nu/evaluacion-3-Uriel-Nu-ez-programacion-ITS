@@ -1,0 +1,10 @@
+C:\Users\Pablo Ocaño\source\repos\miniCajrtoAutomatico\miniCajrtoAutomatico\obj\Debug\miniCajrtoAutomatico.csproj.AssemblyReference.cache
+C:\Users\Pablo Ocaño\source\repos\miniCajrtoAutomatico\miniCajrtoAutomatico\obj\Debug\miniCajrtoAutomatico.Form1.resources
+C:\Users\Pablo Ocaño\source\repos\miniCajrtoAutomatico\miniCajrtoAutomatico\obj\Debug\miniCajrtoAutomatico.Properties.Resources.resources
+C:\Users\Pablo Ocaño\source\repos\miniCajrtoAutomatico\miniCajrtoAutomatico\obj\Debug\miniCajrtoAutomatico.csproj.GenerateResource.cache
+C:\Users\Pablo Ocaño\source\repos\miniCajrtoAutomatico\miniCajrtoAutomatico\obj\Debug\miniCajrtoAutomatico.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Ocaño\source\repos\miniCajrtoAutomatico\miniCajrtoAutomatico\bin\Debug\miniCajrtoAutomatico.exe.config
+C:\Users\Pablo Ocaño\source\repos\miniCajrtoAutomatico\miniCajrtoAutomatico\bin\Debug\miniCajrtoAutomatico.exe
+C:\Users\Pablo Ocaño\source\repos\miniCajrtoAutomatico\miniCajrtoAutomatico\bin\Debug\miniCajrtoAutomatico.pdb
+C:\Users\Pablo Ocaño\source\repos\miniCajrtoAutomatico\miniCajrtoAutomatico\obj\Debug\miniCajrtoAutomatico.exe
+C:\Users\Pablo Ocaño\source\repos\miniCajrtoAutomatico\miniCajrtoAutomatico\obj\Debug\miniCajrtoAutomatico.pdb
